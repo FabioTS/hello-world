@@ -1,2 +1,3 @@
 # hello-world
 Go Hello World on Git!
+Alright so now i have an different branch from the master project and i will now make an commit, let`s see...
